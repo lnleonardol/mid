@@ -1,5 +1,6 @@
 # mid
 include<stdio.h>
 main{
-printf("hello");
+int a=3;
+printf("A value is",a);
 }
